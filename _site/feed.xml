@@ -3,11 +3,11 @@
   <channel>
     <title>비전공자가 업무에서 자주 물어보는 101가지 컴퓨터 활용팁</title>
     <description>키보드와 마우스만 있으면 누구나 일잘러가 될 수 있다!</description>
-    <link>https://needleworm.github.io//101/</link>
-    <atom:link href="https://needleworm.github.io//101/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 07 Jul 2021 10:54:44 +0900</pubDate>
-    <lastBuildDate>Wed, 07 Jul 2021 10:54:44 +0900</lastBuildDate>
-    <generator>Jekyll v4.2.0</generator>
+    <link>http://localhost:4000/101/</link>
+    <atom:link href="http://localhost:4000/101/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 30 May 2022 11:15:42 +0900</pubDate>
+    <lastBuildDate>Mon, 30 May 2022 11:15:42 +0900</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
   </channel>
 </rss>
